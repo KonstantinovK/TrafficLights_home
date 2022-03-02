@@ -9,9 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var redLightView: UIImageView!
-    @IBOutlet weak var yellowLightView: UIImageView!
-    @IBOutlet weak var greenLightView: UIImageView!
+    @IBOutlet weak var redLightView: UIView!
+    @IBOutlet weak var yellowLightView: UIView!
+    @IBOutlet weak var greenLightView: UIView!
     
     @IBOutlet weak var actionButton: UIButton!
     
